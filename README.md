@@ -142,7 +142,7 @@ Completed 70+ Cisco Packet Tracer labs demonstrating hands-on proficiency with C
 
 📧 casshiusbb42@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/casshius-b-md)  
-📄 [Resume (PDF)](Casshius-Bratton-Bey-Resume-2025.pdf)
+📄 [Resume (PDF)](casshius-bratton-bey-resume-2025.pdf)
 
 ---
 

@@ -1,4 +1,7 @@
 # Casshius Bratton-Bey - Network Infrastructure Lab
+### CCNA-Certified Network Professional | AAS - Network Technology | Baltimore, MD
+
+[LinkedIn](https://linkedin.com/in/casshius-b-md) | [Resume (PDF)](casshius-bratton-bey-resume-2025) | casshiusbb42@gmail.com
 
 ## Table of Contents
 - [Overview](#overview)
@@ -147,3 +150,6 @@ Completed 70+ Cisco Packet Tracer labs demonstrating hands-on proficiency with C
 ---
 
 *Built to demonstrate practical networking skills and understanding of enterprise infrastructure.*
+
+---
+*Last updated: October 2025*

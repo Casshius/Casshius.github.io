@@ -15,7 +15,7 @@
 
 ## Overview
 
-I Built a production-style network infrastructure lab to demonstrate practical networking skills beyond certification. The environment features three-tier VLAN segmentation, Cisco routing/switching configurations, pfSense firewall, Active Directory, and monitoring - complemented by 70+ Cisco Packet Tracer labs.
+I built a production-style network infrastructure lab to demonstrate practical networking skills beyond certification. The environment features three-tier VLAN segmentation, Cisco routing/switching configurations, pfSense firewall, Active Directory, and monitoring - complemented by 70+ Cisco Packet Tracer labs.
 
 ---
 

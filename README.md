@@ -1,7 +1,7 @@
 # Casshius Bratton-Bey - Network Infrastructure Lab
 ### CCNA-Certified Network Professional | AAS - Network Technology | Baltimore, MD
 
-[LinkedIn](https://linkedin.com/in/casshius-b-md) | [Resume (PDF)](casshius-bratton-bey-resume-2025) | casshiusbb42@gmail.com
+[LinkedIn](https://linkedin.com/in/casshius-b-md) | [Resume (PDF)](casshius-bratton-bey-resume-2025.pdf) | casshiusbb42@gmail.com
 
 ## Table of Contents
 - [Overview](#overview)

@@ -119,6 +119,23 @@ Completed 70+ Cisco Packet Tracer labs demonstrating hands-on proficiency with C
 - Troubleshooting multi-layer issues (network → auth → application)
 - How chroot jails and SELinux affect service access
 
+### Centralized File Storage (Network File Server)
+**Purpose:** Understand how centralized file storage integrates with directory 
+services and network access controls
+
+**Technologies:** Network file server with SMB/CIFS, Active Directory integration
+
+**What I Learned:**
+- How file servers authenticate users against Active Directory for access control
+- Network share permissions vs NTFS permissions and how they interact
+- The importance of proper VLAN placement for file servers (Data tier for security)
+- How to configure firewall rules to allow file access while blocking unauthorized traffic
+- The role of DNS in file server discovery and name resolution
+
+**Network Integration:** File server placed in Data VLAN (1012) ensures backend 
+storage is isolated from public-facing services, with controlled access from 
+Application VLAN users through Active Directory group policies.
+
 ### Web Application Hosting
 **Purpose:** Learn how web services depend on network infrastructure
 
